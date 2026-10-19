@@ -1,0 +1,26 @@
+# build output
+*.exe
+*.test
+*.out
+/dist/
+/docfind-tasks
+/tasks
+
+# configuration and state: never commit these
+.env
+*.env
+!.env.example
+/data/
+*.key
+users.json
+users.snapshot.json
+sessions.json
+token.key
+/logs/
+/task-files/
+
+# editor / OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

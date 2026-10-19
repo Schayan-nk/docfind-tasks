@@ -1,0 +1,7 @@
+Pictures of the desk mega menu (meganav.js), one per menu entry.
+All from Unsplash, under the Unsplash License (https://unsplash.com/license):
+free to use, commercial use included, no permission or attribution required.
+Cropped to 400x560 and re-encoded as WebP for this application.
+
+tasks.webp     photo-1611224885990-ab7363d1f2a9
+settings.webp  photo-1567093322102-6bdd32fba67d
